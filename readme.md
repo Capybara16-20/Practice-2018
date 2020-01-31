@@ -8,17 +8,16 @@
 
 Вы тоже можете узнать про markdown из статей:
 
-   * [Link 1] (https://ru.wikipedia.org/wiki/Markdown)
-   * [Link 2] (https://en.wikipedia.org/wiki/Markdown)
-
-   * [Link 3] (https://guides.github.com/features/mastering-markdown/)
+   * [https://ru.wikipedia.org/wiki/Markdown] (Link 1)
+   * [https://en.wikipedia.org/wiki/Markdown] (Link 2)
+   * [https://guides.github.com/features/mastering-markdown/] (Link 3) 
 
  
 
 # Markdown в деталях #
 
-Filename extensions | .md, .markdown[1][2]
---------------------|---------------------
+Filename extensions           | .md, .markdown[1][2]
+------------------------------|----------------------------
 Internet media type | text/markdown[2]
 
 Uniform Type Identifier (UTI) | net.daringfireball.markdown
@@ -35,10 +34,10 @@ Extended to | MultiMarkdown, Markdown Extra, CommonMark[6]
 
 Open format? | yes[7]
 
-Website | [Link] (http://daringfireball.net/projects/markdown)
+Website | [http://daringfireball.net/projects/markdown] (Link)
 
  
 
 # Реальный пример # 
 
-[Example] (https://github.com/Microsoft/TypeScript/blob/master/README.md)
+[https://github.com/Microsoft/TypeScript/blob/master/README.md] (Example) 
