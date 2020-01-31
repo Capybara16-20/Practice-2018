@@ -8,11 +8,10 @@
 
 Вы тоже можете узнать про markdown из статей:
 
-   * [https://ru.wikipedia.org/wiki/Markdown] (https://ru.wikipedia.org/wiki/Markdown)
+   * [Link 1] (https://ru.wikipedia.org/wiki/Markdown)
+   * [Link 2] (https://en.wikipedia.org/wiki/Markdown)
 
-   * [https://en.wikipedia.org/wiki/Markdown] (https://en.wikipedia.org/wiki/Markdown)
-
-   * [https://guides.github.com/features/mastering-markdown/] (https://guides.github.com/features/mastering-markdown/)
+   * [Link 3] (https://guides.github.com/features/mastering-markdown/)
 
  
 
@@ -36,10 +35,10 @@ Extended to | MultiMarkdown, Markdown Extra, CommonMark[6]
 
 Open format? | yes[7]
 
-Website | [http://daringfireball.net/projects/markdown] (http://daringfireball.net/projects/markdown)
+Website | [Link] (http://daringfireball.net/projects/markdown)
 
  
 
 # Реальный пример # 
 
-[https://github.com/Microsoft/TypeScript/blob/master/README.md] (https://github.com/Microsoft/TypeScript/blob/master/README.md)
+[Example] (https://github.com/Microsoft/TypeScript/blob/master/README.md)
