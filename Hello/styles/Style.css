@@ -1,34 +1,33 @@
 body {
     width: 1511px;
     height: 1716px;
-    padding-top: 82px;
-    padding-left: 81px;
-    padding-right: 72px;
+    padding: 82px 80px 82px 80px;
     margin: 0;
     background-color: #EAEDF1;
 }
 
 .header {
-    height: 3000px;
+    width: 100%;
+    /*background-color: lightblue;*/
 }
 
 .profile {
     width: 435px;
-    height: 490px;
+    height: 296px;
+    background-color: #33495F;
+    box-sizing: border-box;
 }
 
 .main {
+    box-sizing: border-box;
     padding-top: 34px;
-    padding-left: 25px;
+    padding-left: 26px;
     padding-right: 20px;
-    width: 389px;
-    height: 183px;
+    height: 216px;
     background-color: #FFFFFF;
 }
 
 .mainphoto {
-    /*background-color: red;
-    padding: 0;*/
     float: left;
 }
 
@@ -62,29 +61,50 @@ body {
 
 .signs {
     display: inline-block;
+    height: 80px;
+    box-sizing: border-box;
 }
 
 .sign {
-    width: 109px;
-    height: 79px;
+    margin-top: -16px;
+    height: 80px;
     color: #FFFFFF;
     text-align: center;
-    font-family: 'Lato', sans-serif;;
-    font-size: 14px;
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+.sign img {
+    margin-top: 16px;
+}
+
+.sign p {
+    margin-top: 0;
 }
 
 .eye {
     background-color: #16C4EC;
+    width: 109px;
 }
 
 .flag {
     background-color: #FA5351;
+    width: 109px;
+    margin-left: -4px;
 }
 
 .car {
     background-color: #10CDC1;
+    width: 108px;
+    margin-left: -4px;
 }
 
 .smoke {
     background-color: #33495F;
+    width: 109px;
+    margin-left: -4px;
 }
