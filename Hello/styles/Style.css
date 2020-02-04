@@ -14,10 +14,11 @@ body {
 .profile {
     width: 435px;
     height: 296px;
-    background-color: #33495F;
     box-sizing: border-box;
     float: left;
     margin-right: 88px;
+    border-radius: 2px 2px 0 0;
+    /*box-shadow: inset 0px 0px 1px #92959F;*/
 }
 
 .main {
@@ -27,6 +28,8 @@ body {
     padding-right: 20px;
     height: 216px;
     background-color: #FFFFFF;
+    border-radius: 2px 2px 0 0;
+    /*box-shadow: inset 0px 0px 1px #92959F;*/
 }
 
 .mainphoto {
@@ -92,31 +95,42 @@ body {
 .eye {
     background-color: #16C4EC;
     width: 109px;
+    border-radius: 2px 0 0 2px;
 }
 
 .flag {
     background-color: #FA5351;
     width: 109px;
     margin-left: -4px;
+    border-radius: 1px;
 }
 
 .car {
     background-color: #10CDC1;
     width: 108px;
     margin-left: -4px;
+    border-radius: 2px 0 0 2px;
 }
 
 .smoke {
     background-color: #33495F;
     width: 109px;
     margin-left: -4px;
+    border-radius: 0 2px 2px 0;
 }
 
 .info {
+    box-sizing: border-box;
     background-color: #FFFFFF;
     width: 825px;
     height: 295px;
     display: inline-block;
+    border-radius: 3px;
+    /*box-shadow: inset 0px 0px 1px #92959F;
+    -webkit-box-shadow: inset 0px 0px 1px #92959F;
+    -moz-box-shadow: inset 0px 0px 1px #92959F;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;*/
 }
 
 .web {
@@ -135,6 +149,7 @@ body {
 }
 
 .description1 {
+    border-radius: 4px;
     font-size: 38px;
     font-family: 'Signika Negative', sans-serif;
     color: #33495F;
@@ -285,31 +300,29 @@ body {
     width: 635px;
 }
 
-.left-block1 {
-    position: relative;
+.left-block {
     box-sizing: border-box;
     background-color: #FFFFFF;
+    border-radius: 4px;
+} 
+
+.left-block1 {
+    position: relative;
     margin-bottom: 32px;
     height: 341px;
 }
 
 .left-block2 {
-    box-sizing: border-box;
-    background-color: #FFFFFF;
     height: 322px;
     margin-bottom: 33px;
 }
 
 .left-block3 {
-    box-sizing: border-box;
-    background-color: #FFFFFF;
     height: 170px;
     margin-bottom: 32px;
 }
 
 .left-block4 {
-    box-sizing: border-box;
-    background-color: #FFFFFF;
     height: 169px;
 }
 
